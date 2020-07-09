@@ -1,0 +1,45 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
+    text-shadow: 2px 2px 3px darkgoldenrod, 3px 3px 4px green;
+
+}
+body{
+background-color: chocolate;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&family=Pangolin&family=Source+Sans+Pro&display=swap');
+    
+p{
+    font-family: 'Pangolin', cursive;
+    font-weight: 500;  
+    color: #ffff00;
+
+}
+
+#header{
+    background-color: #c558db;
+    height: 90px;
+ margin: 10px;
+    border-radius: 5px;
+}
+
+#navbar{
+    background-color: #c558db;
+    height: 35px;
+ margin: 10px;
+  border-radius: 5px;
+}
+#gyak2{
+background-color: #ca99d4;
+margin: 10px;
+padding: 20px;
+border-radius: 5px;   
+}
+
+.szöveg{
+text-align: justify;
+width: 600px;
+margin: 0 vario;
+}
