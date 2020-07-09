@@ -1,11 +1,12 @@
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: aqua;
+    color: aquamarine;
     text-shadow: 2px 2px 3px darkgoldenrod, 3px 3px 4px green;
+    font-size: 14px;
 
 }
 body{
-background-color: chocolate;
+background-color: #f5f189;
 
 }
 
@@ -26,13 +27,14 @@ p{
 }
 
 #navbar{
-    background-color: #c558db;
+    background-color: #cb98d4;
     height: 35px;
  margin: 10px;
   border-radius: 5px;
 }
 #gyak2{
 background-color: #ca99d4;
+width: 910px;
 margin: 10px;
 padding: 20px;
 border-radius: 5px;   
@@ -43,3 +45,17 @@ text-align: justify;
 width: 600px;
 margin: 0 vario;
 }
+
+#sidebar{
+    background-color: #ca99d4;
+    width: 320px;
+    float: right;
+    padding: 50px;
+    border-radius: 5px;
+    margin-right: 10px;
+    
+    }
+    h2{
+        color: #e6c90e;
+        text-shadow: 2px 2px 3px darkgoldenrod, 3px 3px 4px green;
+    }
